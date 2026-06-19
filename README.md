@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a b. tech final year CSE student with strong academic background of 9.57 CGPA.<br>My skills are Python, C++, Java, Flask, MongoDB, REST API, basics of AI/ML<br>Currently I'm looking for an internship or a job in AI or backend domain.<br>I'm very passionate about building AI web applications and to turn ideas into working designs.
+I'm currently a b. tech final year CSE student with strong academic background of 9.57 CGPA.<br>My skills are Python, C++, Java, Flask, MongoDB, REST API, basics of AI/ML<br>Currently I'm looking for an internship or a job in AI and backend domains.<br>I'm very passionate about building AI web applications and to turn ideas into working designs.
 
 
 ## 🌐 Socials:
