@@ -3,11 +3,8 @@
 B.Tech CSE student (CGPA: 9.57) building production AI systems — not tutorials, not toy projects.
 
 🏆 **Top 800 / 31,000+ teams** — Meta x PyTorch x Hugging Face OpenEnv Hackathon Finalist
-
 🚀 Shipped **RAG pipelines, LLM-integrated apps, and REST APIs** to production (Docker + Hugging Face Spaces)
-
 🔐 Built JWT auth + bcrypt hashing, FAISS vector search, and live API integrations (WHO health data) into real deployed apps
-
 🛠️ Currently deepening backend systems work: concurrency, distributed systems, scalable architecture
 
 
