@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-B.Tech CSE student (CGPA: 9.57) building production AI systems — not tutorials, not toy projects.
+B.Tech CSE student (CGPA: 9.59) building production AI systems — not tutorials, not toy projects.
 
 - 🏆 **Top 800 / 31,000+ teams** — Meta x PyTorch x Hugging Face OpenEnv Hackathon Finalist
 - 🚀 Shipped **RAG pipelines, LLM-integrated apps, and REST APIs** to production (Docker + Hugging Face Spaces)
